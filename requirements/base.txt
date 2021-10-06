@@ -1,0 +1,4 @@
+uvicorn[standard]==0.15.0  # https://github.com/encode/uvicorn
+django==3.2.7  # https://github.com/django/django
+djangorestframework==3.12.4  # https://github.com/encode/django-rest-framework
+psycopg2==2.9.1  # https://github.com/psycopg/psycopg2
